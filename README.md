@@ -4,7 +4,7 @@
 - 📫 How to reach me (look behind you)
 
 
-- Will change this README.md to a more advanced one (soonish)
+- Will change this README.md to a more advanced one (Really soonish)
 
 <!---
 Removing this cringe!
