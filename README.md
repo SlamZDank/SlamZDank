@@ -13,11 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlamZDank&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="SlamZDank" />
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=SlamZDank&icon=2&color=0)](https://visitcount.itsvg.in)
-
-
-<h2>🖥️ Contributions:</h2>
+# 🖥️ Contributions:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/slamzdank/slamzdank/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/slamzdank/slamzdank/output/github-snake.svg" />
